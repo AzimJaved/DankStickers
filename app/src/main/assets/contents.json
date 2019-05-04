@@ -1,0 +1,772 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Dank Stickers 1",
+      "publisher": "Azim Javed",
+      "tray_image_file": "a1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "a1.webp"
+        },
+        {
+          "image_file": "a2.webp"
+        },
+        {
+          "image_file": "a3.webp"
+        },
+        {
+          "image_file": "a4.webp"
+        },
+        {
+          "image_file": "a5.webp"
+        },
+        {
+          "image_file": "a6.webp"
+        },
+        {
+          "image_file": "a7.webp"
+        },
+        {
+          "image_file": "a8.webp"
+        },
+        {
+          "image_file": "a9.webp"
+        },
+        {
+          "image_file": "a10.webp"
+        },
+        {
+          "image_file": "a11.webp"
+        },
+        {
+          "image_file": "a12.webp"
+        },
+        {
+          "image_file": "a13.webp"
+        },
+        {
+          "image_file": "a14.webp"
+        },
+        {
+          "image_file": "a15.webp"
+        },
+        {
+          "image_file": "a16.webp"
+        },
+        {
+          "image_file": "a17.webp"
+        },
+        {
+          "image_file": "a18.webp"
+        },
+        {
+          "image_file": "a19.webp"
+        },
+        {
+          "image_file": "a20.webp"
+        },
+        {
+          "image_file": "a21.webp"
+        },
+        {
+          "image_file": "a22.webp"
+        },
+        {
+          "image_file": "a23.webp"
+        },
+        {
+          "image_file": "a24.webp"
+        },
+        {
+          "image_file": "a25.webp"
+        },
+        {
+          "image_file": "a26.webp"
+        },
+        {
+          "image_file": "a27.webp"
+        },
+        {
+          "image_file": "a28.webp"
+        },
+        {
+          "image_file": "a29.webp"
+        },
+        {
+          "image_file": "a30.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Dank Stickers 2",
+      "publisher": "Azim Javed",
+      "tray_image_file": "b1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "b1.webp"
+        },
+        {
+          "image_file": "b2.webp"
+        },
+        {
+          "image_file": "b3.webp"
+        },
+        {
+          "image_file": "b4.webp"
+        },
+        {
+          "image_file": "b5.webp"
+        },
+        {
+          "image_file": "b6.webp"
+        },
+        {
+          "image_file": "b7.webp"
+        },
+        {
+          "image_file": "b8.webp"
+        },
+        {
+          "image_file": "b9.webp"
+        },
+        {
+          "image_file": "b10.webp"
+        },
+        {
+          "image_file": "b11.webp"
+        },
+        {
+          "image_file": "b12.webp"
+        },
+        {
+          "image_file": "b13.webp"
+        },
+        {
+          "image_file": "b14.webp"
+        },
+        {
+          "image_file": "b15.webp"
+        },
+        {
+          "image_file": "b16.webp"
+        },
+        {
+          "image_file": "b17.webp"
+        },
+        {
+          "image_file": "b18.webp"
+        },
+        {
+          "image_file": "b19.webp"
+        },
+        {
+          "image_file": "b20.webp"
+        },
+        {
+          "image_file": "b21.webp"
+        },
+        {
+          "image_file": "b22.webp"
+        },
+        {
+          "image_file": "b23.webp"
+        },
+        {
+          "image_file": "b24.webp"
+        },
+        {
+          "image_file": "b25.webp"
+        },
+        {
+          "image_file": "b26.webp"
+        },
+        {
+          "image_file": "b27.webp"
+        },
+        {
+          "image_file": "b28.webp"
+        },
+        {
+          "image_file": "b29.webp"
+        },
+        {
+          "image_file": "b30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Dank Stickers 3",
+      "publisher": "Azim Javed",
+      "tray_image_file": "c1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "c1.webp"
+        },
+        {
+          "image_file": "c2.webp"
+        },
+        {
+          "image_file": "c3.webp"
+        },
+        {
+          "image_file": "c4.webp"
+        },
+        {
+          "image_file": "c5.webp"
+        },
+        {
+          "image_file": "c6.webp"
+        },
+        {
+          "image_file": "c7.webp"
+        },
+        {
+          "image_file": "c8.webp"
+        },
+        {
+          "image_file": "c9.webp"
+        },
+        {
+          "image_file": "c10.webp"
+        },
+        {
+          "image_file": "c11.webp"
+        },
+        {
+          "image_file": "c12.webp"
+        },
+        {
+          "image_file": "c13.webp"
+        },
+        {
+          "image_file": "c14.webp"
+        },
+        {
+          "image_file": "c15.webp"
+        },
+        {
+          "image_file": "c16.webp"
+        },
+        {
+          "image_file": "c17.webp"
+        },
+        {
+          "image_file": "c18.webp"
+        },
+        {
+          "image_file": "c19.webp"
+        },
+        {
+          "image_file": "c20.webp"
+        },
+        {
+          "image_file": "c21.webp"
+        },
+        {
+          "image_file": "c22.webp"
+        },
+        {
+          "image_file": "c23.webp"
+        },
+        {
+          "image_file": "c24.webp"
+        },
+        {
+          "image_file": "c25.webp"
+        },
+        {
+          "image_file": "c26.webp"
+        },
+        {
+          "image_file": "c27.webp"
+        },
+        {
+          "image_file": "c28.webp"
+        },
+        {
+          "image_file": "c29.webp"
+        },
+        {
+          "image_file": "c30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Dank Stickers 4",
+      "publisher": "Azim Javed",
+      "tray_image_file": "d1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "d1.webp"
+        },
+        {
+          "image_file": "d2.webp"
+        },
+        {
+          "image_file": "d3.webp"
+        },
+        {
+          "image_file": "d4.webp"
+        },
+        {
+          "image_file": "d5.webp"
+        },
+        {
+          "image_file": "d6.webp"
+        },
+        {
+          "image_file": "d7.webp"
+        },
+        {
+          "image_file": "d8.webp"
+        },
+        {
+          "image_file": "d9.webp"
+        },
+        {
+          "image_file": "d10.webp"
+        },
+        {
+          "image_file": "d11.webp"
+        },
+        {
+          "image_file": "d12.webp"
+        },
+        {
+          "image_file": "d13.webp"
+        },
+        {
+          "image_file": "d14.webp"
+        },
+        {
+          "image_file": "d15.webp"
+        },
+        {
+          "image_file": "d16.webp"
+        },
+        {
+          "image_file": "d17.webp"
+        },
+        {
+          "image_file": "d18.webp"
+        },
+        {
+          "image_file": "d19.webp"
+        },
+        {
+          "image_file": "d20.webp"
+        },
+        {
+          "image_file": "d21.webp"
+        },
+        {
+          "image_file": "d22.webp"
+        },
+        {
+          "image_file": "d23.webp"
+        },
+        {
+          "image_file": "d24.webp"
+        },
+        {
+          "image_file": "d25.webp"
+        },
+        {
+          "image_file": "d26.webp"
+        },
+        {
+          "image_file": "d27.webp"
+        },
+        {
+          "image_file": "d28.webp"
+        },
+        {
+          "image_file": "d29.webp"
+        },
+        {
+          "image_file": "d30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Dank Stickers 5",
+      "publisher": "Azim Javed",
+      "tray_image_file": "e1.webp",
+      "publisher_email": "thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "e1.webp"
+        },
+        {
+          "image_file": "e2.webp"
+        },
+        {
+          "image_file": "e3.webp"
+        },
+        {
+          "image_file": "e4.webp"
+        },
+        {
+          "image_file": "e5.webp"
+        },
+        {
+          "image_file": "e6.webp"
+        },
+        {
+          "image_file": "e7.webp"
+        },
+        {
+          "image_file": "e8.webp"
+        },
+        {
+          "image_file": "e9.webp"
+        },
+        {
+          "image_file": "e10.webp"
+        },
+        {
+          "image_file": "e11.webp"
+        },
+        {
+          "image_file": "e12.webp"
+        },
+        {
+          "image_file": "e13.webp"
+        },
+        {
+          "image_file": "e14.webp"
+        },
+        {
+          "image_file": "e15.webp"
+        },
+        {
+          "image_file": "e16.webp"
+        },
+        {
+          "image_file": "e17.webp"
+        },
+        {
+          "image_file": "e18.webp"
+        },
+        {
+          "image_file": "e19.webp"
+        },
+        {
+          "image_file": "e20.webp"
+        },
+        {
+          "image_file": "e21.webp"
+        },
+        {
+          "image_file": "e22.webp"
+        },
+        {
+          "image_file": "e23.webp"
+        },
+        {
+          "image_file": "e24.webp"
+        },
+        {
+          "image_file": "e25.webp"
+        },
+        {
+          "image_file": "e26.webp"
+        },
+        {
+          "image_file": "e27.webp"
+        },
+        {
+          "image_file": "e28.webp"
+        },
+        {
+          "image_file": "e29.webp"
+        },
+        {
+          "image_file": "e30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Dank Stickers 6",
+      "publisher": "Azim Javed",
+      "tray_image_file": "f1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "f1.webp"
+        },
+        {
+          "image_file": "f2.webp"
+        },
+        {
+          "image_file": "f3.webp"
+        },
+        {
+          "image_file": "f4.webp"
+        },
+        {
+          "image_file": "f5.webp"
+        },
+        {
+          "image_file": "f6.webp"
+        },
+        {
+          "image_file": "f7.webp"
+        },
+        {
+          "image_file": "f8.webp"
+        },
+        {
+          "image_file": "f9.webp"
+        },
+        {
+          "image_file": "f10.webp"
+        },
+        {
+          "image_file": "f11.webp"
+        },
+        {
+          "image_file": "f12.webp"
+        },
+        {
+          "image_file": "f13.webp"
+        },
+        {
+          "image_file": "f14.webp"
+        },
+        {
+          "image_file": "f15.webp"
+        },
+        {
+          "image_file": "f16.webp"
+        },
+        {
+          "image_file": "f17.webp"
+        },
+        {
+          "image_file": "f18.webp"
+        },
+        {
+          "image_file": "f19.webp"
+        },
+        {
+          "image_file": "f20.webp"
+        },
+        {
+          "image_file": "f21.webp"
+        },
+        {
+          "image_file": "f22.webp"
+        },
+        {
+          "image_file": "f23.webp"
+        },
+        {
+          "image_file": "f24.webp"
+        },
+        {
+          "image_file": "f25.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Cats 1",
+      "publisher": "Azim Javed",
+      "tray_image_file": "h1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "h1.webp"
+        },
+        {
+          "image_file": "h2.webp"
+        },
+        {
+          "image_file": "h3.webp"
+        },
+        {
+          "image_file": "h4.webp"
+        },
+        {
+          "image_file": "h5.webp"
+        },
+        {
+          "image_file": "h6.webp"
+        },
+        {
+          "image_file": "h7.webp"
+        },
+        {
+          "image_file": "h8.webp"
+        },
+        {
+          "image_file": "h9.webp"
+        },
+        {
+          "image_file": "h10.webp"
+        },
+        {
+          "image_file": "h11.webp"
+        },
+        {
+          "image_file": "h12.webp"
+        },
+        {
+          "image_file": "h13.webp"
+        },
+        {
+          "image_file": "h14.webp"
+        },
+        {
+          "image_file": "h15.webp"
+        },
+        {
+          "image_file": "h16.webp"
+        },
+        {
+          "image_file": "h17.webp"
+        },
+        {
+          "image_file": "h18.webp"
+        },
+        {
+          "image_file": "h19.webp"
+        },
+        {
+          "image_file": "h20.webp"
+        },
+        {
+          "image_file": "h21.webp"
+        },
+        {
+          "image_file": "h22.webp"
+        },
+        {
+          "image_file": "h23.webp"
+        },
+        {
+          "image_file": "h24.webp"
+        },
+        {
+          "image_file": "h25.webp"
+        },
+        {
+          "image_file": "h26.webp"
+        },
+        {
+          "image_file": "h27.webp"
+        },
+        {
+          "image_file": "h28.webp"
+        },
+        {
+          "image_file": "h29.webp"
+        },
+        {
+          "image_file": "h30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Cats 2",
+      "publisher": "Azim Javed",
+      "tray_image_file": "i1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "i1.webp"
+        },
+        {
+          "image_file": "i2.webp"
+        },
+        {
+          "image_file": "i3.webp"
+        },
+        {
+          "image_file": "i4.webp"
+        },
+        {
+          "image_file": "i5.webp"
+        },
+        {
+          "image_file": "i6.webp"
+        },
+        {
+          "image_file": "i7.webp"
+        },
+        {
+          "image_file": "i8.webp"
+        },
+        {
+          "image_file": "i9.webp"
+        },
+        {
+          "image_file": "i10.webp"
+        },
+        {
+          "image_file": "i11.webp"
+        },
+        {
+          "image_file": "i12.webp"
+        },
+        {
+          "image_file": "i13.webp"
+        },
+        {
+          "image_file": "i14.webp"
+        },
+        {
+          "image_file": "i15.webp"
+        },
+        {
+          "image_file": "i16.webp"
+        },
+        {
+          "image_file": "i17.webp"
+        },
+        {
+          "image_file": "i18.webp"
+        }
+      ]
+    }
+  ]
+}
