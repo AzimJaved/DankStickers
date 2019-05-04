@@ -597,6 +597,71 @@
         },
         {
           "image_file": "f25.webp"
+        },
+        {
+          "image_file": "f26.webp"
+        },
+        {
+          "image_file": "f27.webp"
+        },
+        {
+          "image_file": "f28.webp"
+        },
+        {
+          "image_file": "f29.webp"
+        },
+        {
+          "image_file": "f30.webp"
+        }
+      ]
+    },{
+      "identifier": "7",
+      "name": "Dank Stickers 7",
+      "publisher": "Azim Javed",
+      "tray_image_file": "g1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "g1.webp"
+        },
+        {
+          "image_file": "g2.webp"
+        },
+        {
+          "image_file": "g3.webp"
+        },
+        {
+          "image_file": "g4.webp"
+        },
+        {
+          "image_file": "g5.webp"
+        },
+        {
+          "image_file": "g6.webp"
+        },
+        {
+          "image_file": "g7.webp"
+        },
+        {
+          "image_file": "g8.webp"
+        },
+        {
+          "image_file": "g9.webp"
+        },
+        {
+          "image_file": "g10.webp"
+        },
+        {
+          "image_file": "g11.webp"
+        },
+        {
+          "image_file": "g12.webp"
+        },
+        {
+          "image_file": "g13.webp"
         }
       ]
     },
