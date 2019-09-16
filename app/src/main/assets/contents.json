@@ -710,7 +710,7 @@
     },
     {
       "identifier": "8",
-      "name": "Cats 1",
+      "name": "Dank Stickers 8",
       "publisher": "Azim Javed",
       "tray_image_file": "h1.webp",
       "publisher_email":"thatazimjaved@gmail.com",
@@ -795,18 +795,6 @@
         },
         {
           "image_file": "h26.webp"
-        },
-        {
-          "image_file": "h27.webp"
-        },
-        {
-          "image_file": "h28.webp"
-        },
-        {
-          "image_file": "h29.webp"
-        },
-        {
-          "image_file": "h30.webp"
         }
       ]
     },
