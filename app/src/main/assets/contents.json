@@ -501,6 +501,12 @@
         },
         {
           "image_file": "e28.webp"
+        },
+        {
+          "image_file": "e29.webp"
+        },
+        {
+          "image_file": "e30.webp"
         }
       ]
     },
@@ -795,6 +801,93 @@
         },
         {
           "image_file": "h26.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Dank Stickers 9",
+      "publisher": "Azim Javed",
+      "tray_image_file": "j1.webp",
+      "publisher_email":"thatazimjaved@gmail.com",
+      "publisher_website": "https://github.com/AzimJaved",
+      "privacy_policy_website": "https://github.com/AzimJaved",
+      "license_agreement_website": "https://github.com/AzimJaved",
+      "stickers": [
+        {
+          "image_file": "j1.webp"
+        },
+        {
+          "image_file": "j2.webp"
+        },
+        {
+          "image_file": "j3.webp"
+        },
+        {
+          "image_file": "j4.webp"
+        },
+        {
+          "image_file": "j5.webp"
+        },
+        {
+          "image_file": "j6.webp"
+        },
+        {
+          "image_file": "j7.webp"
+        },
+        {
+          "image_file": "j8.webp"
+        },
+        {
+          "image_file": "j9.webp"
+        },
+        {
+          "image_file": "j10.webp"
+        },
+        {
+          "image_file": "j11.webp"
+        },
+        {
+          "image_file": "j12.webp"
+        },
+        {
+          "image_file": "j13.webp"
+        },
+        {
+          "image_file": "j14.webp"
+        },
+        {
+          "image_file": "j15.webp"
+        },
+        {
+          "image_file": "j16.webp"
+        },
+        {
+          "image_file": "j17.webp"
+        },
+        {
+          "image_file": "j18.webp"
+        },
+        {
+          "image_file": "j19.webp"
+        },
+        {
+          "image_file": "j20.webp"
+        },
+        {
+          "image_file": "j21.webp"
+        },
+        {
+          "image_file": "j22.webp"
+        },
+        {
+          "image_file": "j23.webp"
+        },
+        {
+          "image_file": "j24.webp"
+        },
+        {
+          "image_file": "j25.webp"
         }
       ]
     },
